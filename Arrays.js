@@ -1,6 +1,6 @@
 //An array is a special variable, which can hold more than one value.
 
-//var myArray = ["wahid ", 33];
+//var myArray = ["wahid ", 33]; //just a comment
 console.log(myArray);
 
 // Nested array in javascript 
