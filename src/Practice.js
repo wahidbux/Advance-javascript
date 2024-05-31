@@ -232,3 +232,4 @@ for (let i in marks){
     console.log("the marks of "+i+"are"+marks[i]);
 }
 
+console.log("Hello world ");
