@@ -4,6 +4,7 @@
 console.log(myArray);
 
 // Nested array in javascript 
+//some random comment
 
 var myArr =[["wahid " , 24],["Mari", 87]];
 console.log(myArr);
